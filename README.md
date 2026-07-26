@@ -435,7 +435,3 @@ make re
 42 School Student
 
 ```
-
----
-
-## وإذا كنت تقصد README **لكل Module على حدة** (CPP00، CPP01، ... CPP09) مع شرح كل Exercise (ex00, ex01...) وأهدافه وكيفية تشغيله، أستطيع إعداد README احترافي لكل Module، بحيث يكون مناسبًا لرفع المشاريع على GitHub.
